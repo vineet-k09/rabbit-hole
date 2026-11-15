@@ -1,29 +1,25 @@
 # rabbit-hole
 interests listed down
 
-[x] Web Dev
-    [x] React
+- [x] Web Dev
+    - [x] React
 
+- [x] Backend
+    - [x] Express
 
-[x]Backend 
-    [x] Express
+- [ ] Atlas
+    - [ ] Rust
+    - [ ] GDScript
+    - [ ] Godot
+    - [ ] Blender
 
+- [x] Reddit
 
-[] Atlas
-    [] Rust
-    [] GdScript
-    [] Godot
-    [] Blender
+- [x] Job
 
-[x] Readit
-
-[x] Job
-
-[x] relay
-    [x] python
-    [x] uv
-    [x] .whl
-    [x] amd_whl
-    [x] os utils
-
-[]
+- [x] Relay
+    - [x] Python
+    - [x] uv
+    - [x] .whl
+    - [x] amd_whl
+    - [x] OS utilities
