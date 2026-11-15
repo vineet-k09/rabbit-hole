@@ -7,17 +7,17 @@ interests listed down
 - [x] Backend
     - [x] Express
 
-- [ ] Atlas
+- [ ] atlas
     - [ ] Rust
     - [ ] GDScript
     - [ ] Godot
     - [ ] Blender
 
-- [x] Reddit
+- [x] readdit
 
-- [x] Job
+- [x] job
 
-- [x] Relay
+- [x] relay
     - [x] Python
     - [x] uv
     - [x] .whl
